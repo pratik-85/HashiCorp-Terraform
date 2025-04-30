@@ -10,7 +10,7 @@ resource "aws_instance" "example" {
 
 variable "ami_id" {
     description = "This is ami id"
-    default = "ami-0987654321"
+    default = "ami-0160e8d70ebc43ee1"
 }
 
 variable "instance_type"{
